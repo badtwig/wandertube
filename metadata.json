@@ -1,0 +1,6 @@
+{
+  "name": "WanderTube - Random YouTube Explorer",
+  "description": "Opens to a completely random YouTube video on every refresh across diverse view counts, genres, channels, and release years.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
